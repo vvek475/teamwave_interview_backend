@@ -1,1 +1,1 @@
-web: gunicorn stackoverfloewClone.wsgi --log-file=-
+web: gunicorn stackoverflowClone.wsgi --log-file=-
