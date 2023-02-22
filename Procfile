@@ -1,0 +1,1 @@
+web: gunicorn stackoverfloewClone.wsgi --log-file=-
